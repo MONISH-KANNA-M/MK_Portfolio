@@ -1,7 +1,7 @@
 import React from "react";
 import './About.css';
 import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
-import Photo from '../assets/photo.jpg';
+import Me from '../assets/Me.jpg';
 
 const About = ({ darkMode }) => {
   return (
@@ -27,7 +27,7 @@ const About = ({ darkMode }) => {
           <a href="https://www.linkedin.com/in/monish-kanna-m-54b06a290/?originalSubdomain=in" target="_blank" rel="noopener noreferrer"><button className="btn">Hire Me</button></a>
         </div>
         <div className="anime">
-          <img src={Photo} alt="Monish" className="myimg" onError={(e) => e.target.src = 'fallback.jpg'} />
+          <img src={Me} alt="Monish" className="myimg" onError={(e) => e.target.src = 'fallback.jpg'} />
         </div>
       </div>
     </div>
