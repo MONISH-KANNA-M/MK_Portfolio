@@ -96,7 +96,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 Your Name
-GitHub: [https://github.com/your-username](https://github.com/MONISH-KANNA-M)
+GitHub: [https://github.com/mk](https://github.com/MONISH-KANNA-M)
 
 ```
 
