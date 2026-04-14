@@ -98,11 +98,6 @@ This project is licensed under the MIT License.
 Your Name
 GitHub: [https://github.com/mk](https://github.com/MONISH-KANNA-M)
 
-```
-
 ---
-
-If you want, I can:
-- :contentReference[oaicite:0]{index=0}  
 - Or :contentReference[oaicite:1]{index=1} 🚀
 ```
