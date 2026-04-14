@@ -99,5 +99,3 @@ Your Name
 GitHub: [https://github.com/mk](https://github.com/MONISH-KANNA-M)
 
 ---
-- Or :contentReference[oaicite:1]{index=1} 🚀
-```
