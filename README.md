@@ -1,8 +1,11 @@
 
----
-
-```markdown id="portfolio01"
+```markdown id="portfolio02"
 # 🌐 My Portfolio Website
+
+## 📌 Live Demo
+🔗 https://mk-portfolio-mcp8.vercel.app/
+
+---
 
 ## 📌 Overview
 This is my personal portfolio website showcasing my projects, skills, and experience. It serves as a digital resume where visitors can learn more about me, view my work, and get in touch.
@@ -37,7 +40,7 @@ Portfolio/
 │── assets/
 │── README.md
 
-````id="9fnm0x"
+````
 
 ---
 
@@ -50,7 +53,7 @@ git clone https://github.com/your-username/Portfolio.git
 
 2. Open the project folder:
 
-```bash id="z7r8fr"
+```bash
 cd Portfolio
 ```
 
@@ -60,7 +63,7 @@ cd Portfolio
 
 Open the website:
 
-```bash id="qqq3jn"
+```bash
 open index.html
 ```
 
@@ -80,7 +83,7 @@ or simply double-click `index.html` in your browser.
 
 ## 🔐 Future Improvements
 
-* 🌐 Deploy online (GitHub Pages)
+* 🌐 Deploy on GitHub Pages
 * 🎨 Add animations and effects
 * 📱 Improve mobile responsiveness
 * 🔗 Add social media links
@@ -95,7 +98,15 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name
-GitHub: [https://github.com/mk](https://github.com/MONISH-KANNA-M)
+**Monish Kanna**
+🔗 GitHub: [https://github.com/MONISH-KANNA-M](https://github.com/MONISH-KANNA-M)
+
+```
 
 ---
+
+If you want, I can make this 🔥:
+- Add **project highlights (like Turf Ease, Waapickle, AI projects)**
+- Add **badges + profile links (LinkedIn, email)**
+- Make it **recruiter-level portfolio README**
+```
